@@ -1,5 +1,5 @@
 # rl_idea
-idea for a new kind of reinforcement learning?
+messing around with an idea for reinforcement learning
 
 The idea is as follows:
 
