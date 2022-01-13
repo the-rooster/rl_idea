@@ -3,7 +3,7 @@ messing around with an idea for high-dimensional space navigation
 
 The idea is as follows:
 
-- Create a world model that maps changeable observations to a world state
+- Create a world model that maps changeable observations to a world state (i.e the agents x-y coordinates that can be changed through action (movement))
 - Train world model on random samples from the world to learn a distribution of world states over observation space
 - Back-propagate through the world model w.r.t the inputs to try to make the state output match the state you wish to reach
   - Mirroring this in the external world should lead to the agent making decisions that lead it towards a goal state
