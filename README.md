@@ -1,5 +1,5 @@
 # rl_idea
-messing around with an idea for high-dimensional space navigation
+messing around with an idea for high-dimensional space navigation.
 
 The idea is as follows:
 
